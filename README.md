@@ -13,8 +13,11 @@ Advanced Toggle: A ± button to instantly switch between positive and negative v
 How to Use
 
 Input: Click the buttons to build your mathematical expression.
+
 Calculate: Press = to see the result.
+
 Correction: Use the ← button to fix mistakes or C to start over.
+
 Negative Numbers: Press ± to invert the current number on the display.
 
 ===Code Structure===
